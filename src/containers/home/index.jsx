@@ -1,6 +1,6 @@
 import React from "react";
 import { useNavigate } from "react-router-dom";
-import { Animate } from "react-simple-animate";
+import { Animate } from 'react-simple-animate';
 import "./styles.scss";
 
 const Home = () => {

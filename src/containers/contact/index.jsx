@@ -1,7 +1,7 @@
 import React from "react";
 import PageHeaderContent from "../../components/pageHeaderContent";
 import { BsInfoCircleFill } from "react-icons/bs";
-import { Animate } from "react-simple-animate";
+import { Animate } from 'react-simple-animate';
 import "./styles.scss";
 
 const Contact = () => {
